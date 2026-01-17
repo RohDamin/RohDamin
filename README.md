@@ -22,8 +22,3 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> 
-
-### ✨Most Used Language✨ ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohDamin)](https://github.com/anuraghazra/github-readme-stats)
-<!--위젯: 사용한 언어 비율-->
-</div>
